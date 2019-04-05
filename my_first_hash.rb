@@ -1,4 +1,4 @@
-def my_hash 
+def my_hash
   = {
   "my_name" => "John",
   "my_height" => "five feet and eleven inches"}
